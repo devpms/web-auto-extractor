@@ -1,5 +1,5 @@
 /* eslint-env mocha */
-import 'babel-polyfill'
+import '@babel/polyfill'
 import fs from 'fs'
 import { assert } from 'chai'
 import WAE from '../src'
